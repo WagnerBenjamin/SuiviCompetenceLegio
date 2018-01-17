@@ -1,0 +1,1 @@
+les branches servent a decouper le projet en branche de dev. Par exemple, une nouvelle feature doit etre développé, on crée une branche sur laquel on developpera la feature afin de ne pas impacté la branche master
