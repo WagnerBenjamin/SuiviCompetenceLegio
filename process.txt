@@ -1,0 +1,1 @@
+On est sur master, on checkout vers dev pour la feature > on dev la feature puis on rebase avec master pour vérifier l'intégration de la feature avec le code actuel sur master > si le rebase s'effectue correctement on peut merge sur master
